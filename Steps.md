@@ -18,11 +18,9 @@ You can check which version of Java SE you have installed by typing "java -versi
 
 > java -version
 
-java version "1.6.0_20"
-Java(TM) SE Runtime Environment (build 1.6.0_20-b02)
-Java HotSpot(TM) Client VM (build 16.3-b01, mixed mode, sharing)
 
 
 Installation
+==============
 Regular distribution
-Orient is distributed in a ZIP file. You can download the latest version at the <http://www.orientechnologies.com/download/> . To install, just extract the contents of ZIP archive into a folder on your PC.
+Orient is distributed in a ZIP file. You can download the latest version at the <http://www.orientechnologies.com/download/> To install, just extract the contents of ZIP archive into your C directory.
