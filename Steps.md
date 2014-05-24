@@ -23,4 +23,5 @@ You can check which version of Java SE you have installed by typing "java -versi
 Installation
 ==============
 Regular distribution
-Orient is distributed in a ZIP file. You can download the latest version at the <http://www.orientechnologies.com/download/> To install just extract the contents of ZIP archive into your C\\directory.
+Orient is distributed in a ZIP file. You can download the latest version at the http://www.orientechnologies.com/download
+To install just extract the contents of ZIP archive into your C\\directory.
