@@ -29,4 +29,4 @@ Installation
 * Open you OrientDb File -> locate bin folder ->  open -> click dserver to lunch Orientdb
 * With server window open. open chrome brower(prefered) and place the ff into address bar (http://localhost:2480/studio/index.html#/)
 * OrientDb comes with a preloaded database call "GreatfulDeadConcerts"
-* To log in you can username admin, password admin, or writer password writer or reader password reader.
+* To log in you can username - admin, password -admin, or  username - writer password- writer or reader password reader.
